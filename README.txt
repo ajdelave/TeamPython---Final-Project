@@ -21,8 +21,6 @@ Instructions for use:
 	- These visualizations use personalized data from Spotify and Gmail.
 		- Our profile information has been stored in cache files for easy running of the program.
 		- Delete .cache-andrewdelave, .DS_Store, and token.pickle if you would like to use your own profiles.
-
-	- spotify_info.py and credentials.json hold the autorization keys
 	
 	- The .csv files hold the outputted data manipulations.
 
